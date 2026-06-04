@@ -101,18 +101,6 @@ PIO                  ·  Linguistics & Lit Society    ·  Posters, tickets, bran
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Kristan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kristancore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kristancore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-</div>
-
----
-
 ## 📌 Currently
 
 - 🎓 Studying **BS Computer Science** at UPLB
