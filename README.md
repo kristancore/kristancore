@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kristancore-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kristancore)
 [![Email](https://img.shields.io/badge/Email-kkristannle@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kkristannle@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF6B6B?style=flat-square&logo=figma&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://behance.net/YOUR_USERNAME)](https://www.behance.net/kristancore)
 
 </div>
 
